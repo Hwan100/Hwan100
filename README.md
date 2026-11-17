@@ -34,7 +34,16 @@ React · Flutter · JavaScript · AJAX
 - JMeter 3,000건 요청 테스트에서 채점 오류율을 **4.53%에서 0%로 개선**
 - 사용자·문제 조합의 동시 제출 경합을 PostgreSQL advisory lock으로 제어
 
-[Repository](프로젝트_깃허브_URL) · [Portfolio](포트폴리오_URL)
+[Repository](https://github.com/maesamco/maesamco-backend) · [Portfolio](https://drive.google.com/file/d/12MDNujSFlOT503GsPhIDmRCGuCYiQspc/view)
+[프로젝트 브로셔](https://app.notion.com/p/3-6bfae7ef38128340a34e815ed6e6fba9)
+
+### 돌보미 - React 기반 간병인 매칭 서비스
+
+- 조건 검색과 건강일지 CRUD 기능 구현
+- S3 Multipart Upload 기반 파일 업로드 기능 구현
+- React 화면과 Spring Boot API 연동
+
+[Repository](https://github.com/Hwan100/Dolbomi) · [Portfolio](https://drive.google.com/file/d/1U0E0yxRwlMNEKx55p7Ofthei_IdBghAU/view)
 
 ### 출결관리 ERP 시스템
 
@@ -42,14 +51,6 @@ React · Flutter · JavaScript · AJAX
 - MyBatis와 SQL JOIN 기반 데이터 조회 구현
 - 세션 기반 로그인과 역할별 접근 제어 적용
 - AJAX와 JSON 응답을 활용해 화면 일부를 비동기로 갱신
-
-[Repository](프로젝트_깃허브_URL)
-
-### 돌보미 - React 기반 간병인 매칭 서비스
-
-- 조건 검색과 건강일지 CRUD 기능 구현
-- S3 Multipart Upload 기반 파일 업로드 기능 구현
-- React 화면과 Spring Boot API 연동
 
 [Repository](프로젝트_깃허브_URL)
 
