@@ -22,7 +22,7 @@ AWS EC2 · Docker Compose · Caddy · GitHub · Git
 
 **Frontend**
 
-React · Flutter · JavaScript · AJAX
+React · JavaScript · AJAX
 
 ## Featured Projects
 
