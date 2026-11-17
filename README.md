@@ -34,7 +34,7 @@ React · Flutter · JavaScript · AJAX
 - JMeter 3,000건 요청 테스트에서 채점 오류율을 **4.53%에서 0%로 개선**
 - 사용자·문제 조합의 동시 제출 경합을 PostgreSQL advisory lock으로 제어
 
-[Repository](https://github.com/maesamco/maesamco-backend) · [Portfolio](https://drive.google.com/file/d/12MDNujSFlOT503GsPhIDmRCGuCYiQspc/view)
+[Repository](https://github.com/maesamco/maesamco-backend) · [Portfolio](https://drive.google.com/file/d/12MDNujSFlOT503GsPhIDmRCGuCYiQspc/view) · 
 [프로젝트 브로셔](https://app.notion.com/p/3-6bfae7ef38128340a34e815ed6e6fba9)
 
 ### 돌보미 - React 기반 간병인 매칭 서비스
@@ -52,7 +52,7 @@ React · Flutter · JavaScript · AJAX
 - 세션 기반 로그인과 역할별 접근 제어 적용
 - AJAX와 JSON 응답을 활용해 화면 일부를 비동기로 갱신
 
-[Repository](프로젝트_깃허브_URL)
+[Repository](https://github.com/Hwan100/semi)
 
 ## What I Value
 
